@@ -1,0 +1,2 @@
+# applying-data-analysis-and-model-building-techniques-on-bike-rental-dataset-
+For this purpose we used Seoul dataset. Seoul is a company offers various bike rental options for tourists and residents. Seoul Public Bike, is an unmanned rental system that can be used anywhere, anytime by anyone, designed to address traffic congestion, air pollution, and high oil prices in Seoul, enhancing the quality of life for citizens.
