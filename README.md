@@ -44,13 +44,13 @@
 
 <ol>
   <li>Clone this repository:<br/>
-    <code>git clone https://github.com/your-username/bike-rental-analysis.git</code>
+    <code>git clone https://github.com/mohsinraza2999/applying-data-analysis-and-model-building-techniques-on-bike-rental-dataset-.git</code>
   </li>
   <li>Install required dependencies:<br/>
     <code>pip install -r requirements.txt</code>
   </li>
   <li>Open the notebook:<br/>
-    <code>Bike_Rental_Analysis.ipynb</code> (Jupyter or Colab)</li>
+    <code>data_analysis.ipynb</code> (Jupyter or Colab)</li>
 </ol>
 
 <hr/>
